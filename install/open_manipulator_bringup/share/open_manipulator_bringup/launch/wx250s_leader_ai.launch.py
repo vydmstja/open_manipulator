@@ -1,0 +1,1 @@
+/root/ros2_ws/src/open_manipulator/build/open_manipulator_bringup/launch/wx250s_leader_ai.launch.py

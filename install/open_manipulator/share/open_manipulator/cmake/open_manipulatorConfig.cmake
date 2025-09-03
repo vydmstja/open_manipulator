@@ -1,0 +1,1 @@
+/root/ros2_ws/src/open_manipulator/build/open_manipulator/ament_cmake_core/open_manipulatorConfig.cmake

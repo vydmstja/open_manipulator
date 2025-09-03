@@ -1,0 +1,1 @@
+/root/ros2_ws/src/open_manipulator/build/open_manipulator_bringup/launch/omy_3m_gazebo.launch.py

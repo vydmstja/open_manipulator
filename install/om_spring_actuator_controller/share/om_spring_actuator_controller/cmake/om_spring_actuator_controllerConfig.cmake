@@ -1,0 +1,1 @@
+/root/ros2_ws/src/open_manipulator/build/om_spring_actuator_controller/ament_cmake_core/om_spring_actuator_controllerConfig.cmake

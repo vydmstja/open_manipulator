@@ -146,6 +146,7 @@
         <command_interface name="Goal Position"/>
         <state_interface name="Present Position"/>
         <state_interface name="Present Velocity"/>
+        <state_interface name="Present Current"/>
       </gpio>
       <gpio name="dxl9">
         <param name="type">dxl</param>
@@ -154,6 +155,8 @@
         <state_interface name="Present Position"/>
         <state_interface name="Present Velocity"/>
         <state_interface name="Present Current"/>
+        <param name="Torque Enable">1</param>
+        <param name="Operating Mode">5</param>
       </gpio>
 
     </ros2_control>

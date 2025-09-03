@@ -32,6 +32,3 @@
         - velocity
 
       allow_partial_joints_goal: true
-
-      # reverse_joints:
-      #   - wrist_angle

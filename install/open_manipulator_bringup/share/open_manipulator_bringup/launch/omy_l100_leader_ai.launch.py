@@ -1,0 +1,1 @@
+/root/ros2_ws/src/open_manipulator/build/open_manipulator_bringup/launch/omy_l100_leader_ai.launch.py

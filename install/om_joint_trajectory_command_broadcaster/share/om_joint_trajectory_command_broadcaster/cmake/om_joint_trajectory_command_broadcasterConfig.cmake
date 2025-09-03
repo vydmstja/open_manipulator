@@ -1,0 +1,1 @@
+/root/ros2_ws/src/open_manipulator/build/om_joint_trajectory_command_broadcaster/ament_cmake_core/om_joint_trajectory_command_broadcasterConfig.cmake
